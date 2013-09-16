@@ -56,6 +56,23 @@ There is no *right* answer here.  The main thing to know is that both good and b
 [Average salaries of language-specific developers from Indeed.com](http://www.indeed.com/salary?q1=php&l1=&q2=ruby&l2=&q3=python&l3=&q4=C%23&l4=&q5=javascript&l5=)
 
 
+#What's a good development workflow?
+#Tell us about your workflow
+#Check out my workflow
+
+This question gets asked constantly and often turns into people just talking about how their workflow is better than someone else's rather than anything constructive.  The lesson is that there is no one correct workflow.  There are hundreds of tools to try - so give some a whirl and find out what works for you.  You can read the following threads to get some ideas:
+
+* [Let's talk about workflow](http://www.reddit.com/r/webdev/comments/17qdc0/lets_talk_about_workflow/)
+* [Your development workflow](http://www.reddit.com/r/webdev/comments/1j3ef6/your_development_workflow/)
+* [What is your workflow and what tools do you use?](http://www.reddit.com/r/webdev/comments/1j1vsj/what_is_your_workflow_and_what_tools_do_you_use/)
+* [What things do you include in your workflow?](http://www.reddit.com/r/webdev/comments/vy2cx/what_things_do_you_include_in_your_workflow_that/)
+* [What are you doing in YOUR career, routine or workflow that has made you more efficient?](http://www.reddit.com/r/webdev/comments/1lyr49/what_are_you_doing_in_your_career_routine_or/)
+* [What kind of a workflow would you suggest for a large project with a few developers?](http://www.reddit.com/r/webdev/comments/t72t5/what_kind_of_a_workflow_would_you_suggest_for_a/)
+* [What's your most recent app or tool you've discovered and now can't live without, that improved your webdev workflow dramatically?](http://www.reddit.com/r/webdev/comments/1kj8n8/whats_your_most_recent_app_or_tool_youve/)
+* [What would a good web development and deployment workflow be?](http://www.reddit.com/r/webdev/comments/1cyhfu/what_would_a_good_web_development_and_deployment/)
+* [How can I improve my workflow from my current amateur setup?](http://www.reddit.com/r/webdev/comments/17gbyj/how_can_i_improve_my_workflow_from_my_current/)
+* [Looking for workflow advice on how to edit a site without working live](http://www.reddit.com/r/webdev/comments/11xi72/looking_for_workflow_advice_on_how_to_edit_a_site/)
+
 #What web host should I be using?
 
 There are thousands of web hosts out there and there is no clear "best".  For more info, you can check out the [webhosting subreddit](http://www.reddit.com/r/webhosting).  Popular choices include:
